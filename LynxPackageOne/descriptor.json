@@ -1,0 +1,15 @@
+﻿{
+  "Descriptor": {
+    "UId": "73f51792-b865-e538-50ed-305640e10d6e",
+    "Name": "LynxPackageOne",
+    "ModifiedOnUtc": "\/Date(1645222030000)\/",
+    "Maintainer": "Customer",
+    "DependsOn": [
+      {
+        "UId": "2fabaf6c-0f92-4530-aef8-40345c021da2",
+        "PackageVersion": "7.8.0",
+        "Name": "ProductCore"
+      }
+    ]
+  }
+}
